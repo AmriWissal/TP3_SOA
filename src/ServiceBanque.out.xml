@@ -1,0 +1,13 @@
+<html>
+    <head></head>  
+    <body>
+        <h1>Listes des comptes </h1>
+        <table border="1">
+            <tr>
+                <td>code</td>
+                <td>solde</td>
+                <td>dateCreation</td>
+            </tr>
+        </table>
+    </body>
+</html>
